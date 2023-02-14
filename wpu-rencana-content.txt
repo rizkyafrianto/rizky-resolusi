@@ -4,6 +4,8 @@ Rencana konten wpu
   *ES6
   *framework js
 - struktur data
-- PHP
+- PHP framework
+ * laravel
 - interview
 - vlog
+- python
