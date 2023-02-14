@@ -1,6 +1,8 @@
 Rencana konten wpu
 
 - membuat js
+  *ES6
+  *framework js
 - PHP
--interview
--vlog
+- interview
+- vlog
