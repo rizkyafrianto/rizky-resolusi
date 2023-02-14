@@ -3,6 +3,7 @@ Rencana konten wpu
 - membuat js
   *ES6
   *framework js
+- struktur data
 - PHP
 - interview
 - vlog
