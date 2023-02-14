@@ -3,6 +3,8 @@ Rencana konten wpu
 - membuat js
   *ES6
   *framework js
+   - react
+   - vue
 - struktur data
 - PHP framework
  * laravel
